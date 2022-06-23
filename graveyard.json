@@ -88,4 +88,18 @@
     "link": "https://www.leagueoflegends.com/en-us/news/game-updates/turning-off-web-match-history/",
     "description": "LegS the abbreviation for Legendary Stats was the service powering League's match history after Riot created multiple games they also created a new match history system called GAMHS which in 2021 replaced the years old LegS system.",
     "type": "api"
+}, {
+    "dateClose": "2016-02-18",
+    "dateOpen": "2013-09-07",
+    "name": "Ao Shin",
+    "link": "https://leagueoflegends.fandom.com/wiki/Aurelion_Sol/Development#Champion_Sneak_Peek:_Ao_Shin",
+    "description": "Ao Shin was a dragon champion teased back in 2013. Riot finally made Aurelion Sol. Enventually, Ao Shin has been added to TFT as a champion.",
+    "type": "champion"
+}, {
+    "dateClose": "2020-03-09",
+    "dateOpen": "2009",
+    "name": "League of Legends Boards",
+    "link": "https://www.leagueoflegends.com/en-pl/news/community/saying-farewell-to-boards/",
+    "description": "League of Legends forum were replaced by other community tools like Reddit, Discord and Twitter to discuss about the game.",
+    "type": "app"
 }]
