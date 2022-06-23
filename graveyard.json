@@ -17,17 +17,20 @@
     "dateOpen": "2015-02-12",
     "description": "Nemesis Draft is a Featured Game Mode for League of Legends in which every player picks a champion for the opposing team.",
     "name": "Nemesis Draft",
+    "link": "https://leagueoflegends.fandom.com/wiki/Nemesis_Draft",
     "type": "gamemode"
 }, {
     "dateClose": "2016-02-22",
     "dateOpen": "2011-09-26",
     "description": "Dominion was a game mode in League of Legends in a 5v5 format on the Crystal Scar centering around objective control.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Dominion",
     "name": "Dominion",
     "type": "gamemode"
 }, {
     "dateClose": "2016-02-22",
     "dateOpen": "2011-09-26",
     "description": "It was a Field of Justice designed for the Dominion game mode.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Crystal_Scar",
     "name": "Crystal Scar",
     "type": "map"
 }, {
@@ -36,4 +39,18 @@
     "description": "The Snowdown Summoner's Rift was replaced by a 'Winter' seasonal variant that includes many holiday elements.",
     "name": "Winter Summoner's Rift",
     "type": "map"
+}, {
+    "dateClose": "2019-11-19",
+    "dateOpen": "2009-10-27",
+    "description": "Twisted Treeline was the second classic gameplay map for League of Legends. It typically featured faster, bloodier matches with an emphasis on ganking and small-scale skirmishes.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Twisted_Treeline",
+    "name": "Twisted Treeline",
+    "type": "map"
+}, {
+    "dateClose": "2017-05-17",
+    "dateOpen": "2017-05-04",
+    "name": "Dark Star: Singularity",
+    "link": "https://leagueoflegends.fandom.com/wiki/Dark_Star:_Singularity",
+    "description": "Dark Star Singularity was a 3v3 match where you play as Thresh, the Chain Warden. It was a quick mode played on the map Cosmic Ruins taking place in outer space.",
+    "type": "gamemode"
 }]
