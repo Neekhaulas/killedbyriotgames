@@ -99,7 +99,7 @@ const Footer = () => (
                             Contributors
             </a>
             &nbsp;from around the world help compile, research, and maintain the
-            information about dying and dead Google products. You can join the
+            information about dying and dead Riot Games products. You can join the
             discussion on&nbsp;
             <a href="https://github.com/Neekhaulas/killedbyriotgames">GitHub</a>. A project
             by&nbsp;

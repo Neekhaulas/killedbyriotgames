@@ -34,8 +34,8 @@
     "name": "Crystal Scar",
     "type": "map"
 }, {
-    "dateClose": "2016-12-22",
-    "dateOpen": "2017-01-11",
+    "dateClose": "2017-01-11",
+    "dateOpen": "2016-12-22",
     "description": "The Snowdown Summoner's Rift was replaced by a 'Winter' seasonal variant that includes many holiday elements.",
     "name": "Winter Summoner's Rift",
     "type": "map"
@@ -53,4 +53,18 @@
     "link": "https://leagueoflegends.fandom.com/wiki/Dark_Star:_Singularity",
     "description": "Dark Star Singularity was a 3v3 match where you play as Thresh, the Chain Warden. It was a quick mode played on the map Cosmic Ruins taking place in outer space.",
     "type": "gamemode"
+}, {
+    "dateClose": "2018-10-08",
+    "dateOpen": "2018-09-12",
+    "name": "Odyssey: Extraction",
+    "description": "Odyssey: Extraction was a temporary game mode released for the Odyssey event.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Odyssey:_Extraction",
+    "type": "gamemode"
+}, {
+    "dateClose": "2015-01-28",
+    "dateOpen": "2009-10-01",
+    "description": "Deathfire Grasp was a legendary item in League of Legends.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Deathfire_Grasp",
+    "name": "Deathfire Grasp",
+    "type": "item"
 }]
