@@ -103,6 +103,13 @@
     "description": "League of Legends forum were replaced by other community tools like Reddit, Discord and Twitter to discuss about the game.",
     "type": "app"
 }, {
+    "dateClose": "2017-01-25",
+    "dateOpen": "2017-01-10",
+    "name": "Sewn Chaos Amumu and Blitzcrank",
+    "link": "https://dotesports.com/news/sewn-chaos-skins-canceled-9008",
+    "description": "Sewn Chaos Amumu and Blitzcrank were deeemed to low quality to be added to live server.",
+    "type": "skin"
+}, {
     "dateClose": "2020-10-07",
     "dateOpen": "2015",
     "name": "Oceanic Pro League",

@@ -4,8 +4,10 @@ export enum ProductType {
     CHAMPION = 'champion',
     ITEM = 'item',
     APP = 'app',
+    API = 'api',   
+    SKIN = 'skin',
     API = 'api',
-    COMPETITION = 'competition'
+    COMPETITION = 'competition',
 }
 
 export interface Product {
