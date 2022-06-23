@@ -33,6 +33,10 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
     {
       value: FilterType.MAP,
       label: `Map (${getCount('hardware')})`,
+    },
+    {
+      value: FilterType.ITEM,
+      label: `Item (${getCount('hardware')})`,
     }
   ];
 

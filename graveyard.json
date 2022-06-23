@@ -5,4 +5,11 @@
     "link": "https://leagueoflegends.fandom.com/wiki/Invasion",
     "name": "Star Guardian Gamemode",
     "type": "gamemode"
+}, {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2009",
+    "description": "Mana Potion was a consumable item in League of Legends icon.png League of Legends.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Mana_Potion",
+    "name": "Mana Potion",
+    "type": "item"
 }]

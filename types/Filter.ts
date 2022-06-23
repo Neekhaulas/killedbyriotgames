@@ -7,4 +7,5 @@ export enum FilterType {
     MAP = 'map',
     GAMEMODE = 'gamemode',
     CHAMPION = 'champion',
+    ITEM = 'item'
 }
