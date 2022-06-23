@@ -1,7 +1,10 @@
 export enum ProductType {
-  APP = 'app',
-  SERVICE = 'service',
-  HARDWARE = 'hardware',
+    MAP = 'map',
+    GAMEMODE = 'gamemode',
+    CHAMPION = 'champion',
+    ITEM = 'item',
+    APP = 'app',
+    API = 'api'
 }
 
 export interface Product {
