@@ -20,11 +20,11 @@ module.exports = {
     rewrites() {
         return [{
                 source: '/umami.js',
-                destination: 'https://analytics.bale.media/umami.js'
+                destination: 'https://a.challenges.gg/umami.js'
             },
             {
                 source: '/api/collect',
-                destination: 'https://analytics.bale.media/api/collect',
+                destination: 'https://a.challenges.gg/api/collect',
             }
         ]
     },
