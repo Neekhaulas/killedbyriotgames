@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://static.killedbygoogle.com/com/tombstone.png" alt="tombstone" style="height: 80px; width: 80px; padding: 0 20px;">
   <h1>Killed by Riot Games</h1>
-  <p>A tribute and log of beloved products and services killed by Google.</p>
+  <p>A tribute and log of beloved products and services killed by Riot Games.</p>
 </div>
 
 <div align="center">
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/killedbygoogle?color=%231da1f2&label=%40killedbygoogle&style=flat-square)](https://twitter.com/killedbygoogle)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 </div>
 
