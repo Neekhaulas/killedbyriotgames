@@ -12,4 +12,28 @@
     "link": "https://leagueoflegends.fandom.com/wiki/Mana_Potion",
     "name": "Mana Potion",
     "type": "item"
+}, {
+    "dateClose": "2015-03-12",
+    "dateOpen": "2015-02-12",
+    "description": "Nemesis Draft is a Featured Game Mode for League of Legends in which every player picks a champion for the opposing team.",
+    "name": "Nemesis Draft",
+    "type": "gamemode"
+}, {
+    "dateClose": "2016-02-22",
+    "dateOpen": "2011-09-26",
+    "description": "Dominion was a game mode in League of Legends in a 5v5 format on the Crystal Scar centering around objective control.",
+    "name": "Dominion",
+    "type": "gamemode"
+}, {
+    "dateClose": "2016-02-22",
+    "dateOpen": "2011-09-26",
+    "description": "It was a Field of Justice designed for the Dominion game mode.",
+    "name": "Crystal Scar",
+    "type": "map"
+}, {
+    "dateClose": "2016-12-22",
+    "dateOpen": "2017-01-11",
+    "description": "The Snowdown Summoner's Rift was replaced by a 'Winter' seasonal variant that includes many holiday elements.",
+    "name": "Winter Summoner's Rift",
+    "type": "map"
 }]
