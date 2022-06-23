@@ -9,5 +9,6 @@ export enum FilterType {
     CHAMPION = 'champion',
     ITEM = 'item',
     APP = 'app',
-    API = 'api'
+    API = 'api',
+    SKIN = 'skins'
 }
