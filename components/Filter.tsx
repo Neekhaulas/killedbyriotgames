@@ -45,7 +45,15 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
     {
       value: FilterType.API,
       label: `API (${getCount('api')})`,
-    }
+    },
+    {
+      value: FilterType.SKIN,
+      label: `Skin (${getCount('skin')})`,
+    },
+    {
+      value: FilterType.COMPETITION,
+      label: `Competition (${getCount('competition')})`,
+    },
   ];
 
   const changeHandler = (arg: SingleValue<Option>): void => {
