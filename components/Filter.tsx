@@ -37,6 +37,14 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
     {
       value: FilterType.ITEM,
       label: `Item (${getCount('item')})`,
+    },
+    {
+      value: FilterType.APP,
+      label: `App (${getCount('app')})`,
+    },
+    {
+      value: FilterType.API,
+      label: `API (${getCount('api')})`,
     }
   ];
 
