@@ -5,7 +5,7 @@ export enum ProductType {
     ITEM = 'item',
     APP = 'app',
     API = 'api',   
-    SKIN = 'skins'
+    SKIN = 'skin'
 }
 
 export interface Product {
