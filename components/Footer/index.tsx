@@ -118,7 +118,7 @@ const Footer = () => (
                         &copy; 2022 Neekhaulas.
           </a>
           &nbsp;-&nbsp;
-          <a href="https://analytics.kbg.rip" target="_blank" rel="noopener noreferrer">
+          <a href="https://a.challenges.gg/share/XkHzk4yB" target="_blank" rel="noopener noreferrer">
                         Analytics
           </a>
                 </CopyNotice>

@@ -10,5 +10,6 @@ export enum FilterType {
     ITEM = 'item',
     APP = 'app',
     API = 'api',
-    SKIN = 'skin'
+    SKIN = 'skin',
+    COMPETITION = 'competition',
 }

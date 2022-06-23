@@ -109,4 +109,11 @@
     "link": "https://dotesports.com/news/sewn-chaos-skins-canceled-9008",
     "description": "Sewn Chaos Amumu and Blitzcrank were deeemed to low quality to be added to live server.",
     "type": "skin"
+}, {
+    "dateClose": "2020-10-07",
+    "dateOpen": "2015",
+    "name": "Oceanic Pro League",
+    "link": "https://en.wikipedia.org/wiki/Oceanic_Pro_League",
+    "description": "The Oceanic Pro League (OPL) was the top-level of professional League of Legends competition in Oceania.Riot Games announced the dissolution of the OPL on 7 October 2020, citing operation costs and failures to reach company-set goals.",
+    "type": "competition"
 }]
