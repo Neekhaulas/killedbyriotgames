@@ -73,7 +73,6 @@ const SocialWrapper = styled.div(() => css({
 
 const Footer = () => (
     <>
-        <PressCoverage />
         <FooterContainer>
             <FlexWrap>
                 <FooterTitle>
@@ -82,18 +81,18 @@ const Footer = () => (
                     }}>
                         <img height="60px" width="60px" src='https://static.killedbygoogle.com/com/tombstone-alt.svg' alt="Tombstone" />
                     </div>
-                    <Title>Killed by Google</Title>
+                    <Title>Killed by Riot Games</Title>
                 </FooterTitle>
                 <div>
                     <p>
-                        Killed by Google is the Google graveyard; a free and open source
-                        list of discontinued Google services, products, devices, and apps.
+                        Killed by Riot Games is the Riot Games graveyard; a free and open source
+                        list of discontinued Riot Games content, software.
                         We aim to be a source of factual information about the history
-                        surrounding Google&apos;s dead projects.
+                        surrounding Riot Games&apos; dead projects.
           </p>
                     <p>
                         <a
-                            href="https://github.com/codyogden/killedbygoogle/graphs/contributors"
+                            href="https://github.com/Neekhaulas/killedbyriotgames/graphs/contributors"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -102,32 +101,21 @@ const Footer = () => (
             &nbsp;from around the world help compile, research, and maintain the
             information about dying and dead Google products. You can join the
             discussion on&nbsp;
-            <a href="https://github.com/codyogden/killedbygoogle">GitHub</a>, or
-            follow us on&nbsp;
-            <a href="https://twitter.com/killedbygoogle">Twitter</a>. A project
+            <a href="https://github.com/Neekhaulas/killedbyriotgames">GitHub</a>. A project
             by&nbsp;
             <a
-                            href="https://codyogden.com"
+                            href="https://github.com/Neekhaulas/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            Cody Ogden
-            </a>
-            .
-          </p>
-                    <p>
-                        Press inquiries and other assorted death threats?
-            <br />
-            Throw a&nbsp;
-            <a href="mailto:knife@killedbygoogle.com">
-                            knife@killedbygoogle.com
+                            Neekhaulas
             </a>
             .
           </p>
                 </div>
                 <CopyNotice>
-                    <a href="https://github.com/codyogden/killedbygoogle/blob/main/LICENSE">
-                        &copy; 2022 Cody Ogden.
+                    <a href="https://github.com/Neekhaulas/killedbyriotgames/blob/main/LICENSE">
+                        &copy; 2022 Neekhaulas.
           </a>
           &nbsp;-&nbsp;
           <a href="https://analytics.kbg.rip" target="_blank" rel="noopener noreferrer">
@@ -136,14 +124,9 @@ const Footer = () => (
                 </CopyNotice>
                 <SocialWrapper>
                     <SocialLink
-                        url="https://github.com/codyogden/killedbygoogle"
+                        url="https://github.com/Neekhaulas/killedbyriotgames"
                         altText="GitHub"
                         imgSrc='https://static.killedbygoogle.com/com/github.svg'
-                    />
-                    <SocialLink
-                        url="https://twitter.com/killedbygoogle"
-                        altText="Twitter"
-                        imgSrc='https://static.killedbygoogle.com/com/twitter.svg'
                     />
                 </SocialWrapper>
             </FlexWrap>

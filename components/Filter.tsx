@@ -23,16 +23,16 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
       label: `All (${items.length})`,
     },
     {
-      value: FilterType.APP,
-      label: `Apps (${getCount('app')})`,
+      value: FilterType.GAMEMODE,
+      label: `Gamemode (${getCount('app')})`,
     },
     {
-      value: FilterType.SERVICE,
-      label: `Services (${getCount('service')})`,
+      value: FilterType.CHAMPION,
+      label: `Champion (${getCount('service')})`,
     },
     {
-      value: FilterType.HARDWARE,
-      label: `Hardware (${getCount('hardware')})`,
+      value: FilterType.MAP,
+      label: `Map (${getCount('hardware')})`,
     }
   ];
 

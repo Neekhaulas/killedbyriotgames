@@ -138,10 +138,10 @@ type Props = {
 
 const List: React.FC<Props> = ({ items }) => (
     <ListContainer>
-        <AdContainer>
+        {/* <AdContainer>
             <SRT>Advertisement</SRT>
             {showAd()}
-        </AdContainer>
+        </AdContainer> */}
         {items.map(item => (
             <Item key={item.slug} {...item} />
         ))}
