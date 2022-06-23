@@ -6,7 +6,6 @@ export enum ProductType {
     APP = 'app',
     API = 'api',   
     SKIN = 'skin',
-    API = 'api',
     COMPETITION = 'competition',
 }
 
