@@ -23,21 +23,21 @@ const HomePage: React.FC<{ items: ProductWithSlug[] }> = ({ items }) => {
                 <link rel="shortcut icon" href="favicon.png" />
                 <title>Riot Games Graveyard - Killed by Riot Games</title>
                 <meta name="theme-color" content="#FAFAFA" />
-                <link rel="canonical" href="https://killedbyriotgames.com" />
-                <meta name="image" content="https://killedbyriotgames.com/social/card.png"></meta>
+                <link rel="canonical" href={`${process.env.NEXT_PUBLIC_URL}`} />
+                <meta name="image" content={`${process.env.NEXT_PUBLIC_URL}/social/card.png`}></meta>
                 <meta itemProp="name" content="Killed by Riot Games" />
                 <meta itemProp="description" content="Killed by Riot Games is the Riot Games Graveyard. A full list of dead products Killed by Riot Games in the Riot Games Cemetery." />
-                <meta itemProp="image" content="https://killedbyriotgames.com/social/card.png" />
+                <meta itemProp="image" content={`${process.env.NEXT_PUBLIC_URL}/social/card.png`} />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="Killed by Riot Games" />
                 <meta name="twitter:description" content="Killed by Riot Games is the Riot Games Graveyard. A full list of dead products Killed by Riot Games in the Riot Games Cemetery." />
-                <meta name="twitter:image:src" content="https://killedbyriotgames.com/social/card-twitter.png" />
-                <meta name="twitter:image" content="https://killedbyriotgames.com/social/card-twitter.png" />
+                <meta name="twitter:image:src" content={`${process.env.NEXT_PUBLIC_URL}/social/card-twitter.png`} />
+                <meta name="twitter:image" content={`${process.env.NEXT_PUBLIC_URL}/social/card-twitter.png`} />
                 <meta name="og:title" property="og:title" content="Killed by Riot Games" />
-                <meta name="og:url" property="og:url" content="https://killedbyriotgames.com" />
+                <meta name="og:url" property="og:url" content={`${process.env.NEXT_PUBLIC_URL}`} />
                 <meta name="og:description" property="og:description" content="Killed by Riot Games is the open source list of dead Riot Games products, services, and devices. It serves as a tribute and memorial of beloved services and products Killed by Riot Games." />
-                <meta name="image" property="og:image" content="https://killedbyriotgames.com/social/card.png" />
-                <meta name="og:image" property="og:image" content="https://killedbyriotgames.com/social/card.png" />
+                <meta name="image" property="og:image" content={`${process.env.NEXT_PUBLIC_URL}/social/card.png`} />
+                <meta name="og:image" property="og:image" content={`${process.env.URL}/social/card.png`} />
                 <meta name="og:site_name" property="og:site_name" content="Killed by Riot Games" />
                 <meta name="og:type" property="og:type" content="website" />
                 <meta name="author" content="Neekhaulas" />
