@@ -1,6 +1,6 @@
 [{
-    "dateClose": "2017-08",
-    "dateOpen": "2017-08",
+    "dateClose": "2017-08-01",
+    "dateOpen": "2017-08-31",
     "description": "Invasion was a 5 player PvE mode on a brand new series of maps. Form a squad of your favourite Star Guardians and, alongside your friends, defend the city from a series of monster attacks.",
     "link": "https://leagueoflegends.fandom.com/wiki/Invasion",
     "name": "Star Guardian Gamemode",
@@ -8,7 +8,7 @@
 }, {
     "dateClose": "2019-11-20",
     "dateOpen": "2009",
-    "description": "Mana Potion was a consumable item in League of Legends icon.png League of Legends.",
+    "description": "Mana Potion was a consumable item in League of Legends.",
     "link": "https://leagueoflegends.fandom.com/wiki/Mana_Potion",
     "name": "Mana Potion",
     "type": "item"
