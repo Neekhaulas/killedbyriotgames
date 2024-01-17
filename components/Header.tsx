@@ -28,7 +28,7 @@ const Title = styled.h1(() => css({
 const Header = () => (
     <HeaderContainer>
         <Link href="/" passHref>
-            <a rel="noreferrer noopener" css={{
+            <a rel="noreferrer noopener" style={{
                 borderBottom: 0,
             }}>
                 <BrandingContainer>

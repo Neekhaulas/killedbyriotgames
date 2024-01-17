@@ -10,9 +10,9 @@ const LoaderContainer = styled.div(() => css({
 
 const Loader = () => <LoaderContainer>
     <img
-        css={css({
+        style={{
             width: '60px',
-        })}
+        }}
         width="60px"
         src="knife.svg"
         alt="Knife"

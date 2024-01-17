@@ -19,14 +19,14 @@ const SocialLink: FC<{ url: string; imgSrc: string; altText: string }> = ({
     return (
         <Link href={url} passHref>
             <a
-                css={{
+                style={{
                     border: 'none',
                 }}
                 target='_blank'
                 rel='noopener noreferrer'
             >
                 <img
-                    css={{
+                    style={{
                         width: '24px',
                         height: '24px',
                     }}
@@ -76,7 +76,7 @@ const Footer = () => (
         <FooterContainer>
             <FlexWrap>
                 <FooterTitle>
-                    <div css={{
+                    <div style={{
                         marginRight: '10px',
                     }}>
                         <img height="60px" width="60px" src='tombstone-alt.svg' alt="Tombstone" />
