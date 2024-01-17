@@ -1,4 +1,18 @@
 [{
+    "dateClose": "2024-01-01",
+    "dateOpen": "2021-01-01",
+    "description": "Mythic item was one of the item classifications in League of Legends.",
+    "link": "https://leagueoflegends.fandom.com/wiki/Mythic_item",
+    "name": "Mythic Items",
+    "type": "item"
+}, {
+    "dateClose": "2024-01-01",
+    "dateOpen": "2009-01-01",
+    "description": "League of Legends was playable on Linux.",
+    "link": "",
+    "name": "League on Linux",
+    "type": "app"
+}, {
     "dateClose": "2017-08-01",
     "dateOpen": "2017-08-31",
     "description": "Invasion was a 5 player PvE mode on a brand new series of maps. Form a squad of your favourite Star Guardians and, alongside your friends, defend the city from a series of monster attacks.",
